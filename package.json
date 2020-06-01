@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@react-native-firebase/app": "^7.1.4",
+    "axios": "^0.19.2",
+    "jwt-decode": "^2.2.0",
+    "react-native-elements": "^2.0.1",
+    "react-native-gallery-swiper": "^1.26.0",
+    "react-native-video": "^4.4.5",
+    "react-redux": "^7.2.0",
+    "redux": "^4.0.5",
+    "redux-devtools-extension": "^2.13.8",
+    "redux-thunk": "^2.3.0"
+  }
+}
